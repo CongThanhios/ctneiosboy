@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/congthanhios/ctneiosboy/main/ESign_CTNE_5.0.2_
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.ctne.esign</string>
+        <string>p3.xyz.congthanhios.esign</string>
         <key>bundle-version</key>
         <string>5.0.2</string>
         <key>kind</key>
